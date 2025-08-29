@@ -20,5 +20,3 @@ A personal space for my **Java coding journey** — from GFG practice to DSA pro
 - 🎯 **Execution > Planning**  
 
 ---
-
-### 📂 Repository Structure
