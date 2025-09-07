@@ -7,6 +7,7 @@ public class LCM {
         System.out.println("Enter two numbers to find LCM : ");
         a= sc.nextInt();
         b= sc.nextInt();
+        
         /* NAIVE SOLUTION
         int res=Math.max(a,b);
 
